@@ -69,6 +69,7 @@ appDownloadLink: String? = null,
 appUUID: String? = null
 )
 ```
-You can find the backend source code [App Version Tracker Backend](https://github.com/sai-charan2003/App-Version-Tracker-Backend)
+You can find the backend source code for the App Version Tracker [here](https://github.com/sai-charan2003/App-Version-Tracker-Backend).
 
-[App Veriosn Tracker](version-tracker-54zg.onrender.com)is build using flutter source code [App Version Tracker Frontend](github.com/sai-charan2003/app-version-tracker-frontend)
+The App Version Tracker website is built using Flutter. You can access the frontend source code [here](https://github.com/sai-charan2003/app-version-tracker-frontend).
+
