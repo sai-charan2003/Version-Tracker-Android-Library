@@ -52,7 +52,8 @@ android {
 }
 
 dependencies {
-    implementation(project(":VersionTracker"))
+//    implementation(project(":VersionTracker"))
+    implementation("com.github.sai-charan2003:Version-Tracker-Android-Library:0.0.1")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
