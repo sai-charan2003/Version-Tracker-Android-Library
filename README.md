@@ -7,7 +7,7 @@ You might wonder: can developers simply use Retrofit and implement this? While t
 
 ### Quick Start
 
-1. **Login and Setup**: Register on the [App Version Tracker website](https://version-tracker-54zg.onrender.com/#/register), log in, and add your app details to your account, including version info and download link.
+1. **Login and Setup**: Register on the [App Version Tracker website](https://version-tracker.vercel.app/#/register), log in, and add your app details to your account, including version info and download link.
 
 2. **Include the Library**: Add this library to your Android project.
 
